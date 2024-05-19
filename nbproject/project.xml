@@ -1,8 +1,5 @@
-<<<<<<< HEAD
+
 <?xml version="1.0" encoding="UTF-8"?>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
->>>>>>> f166b83cb113f9fee87da2f56c50c520d36c8522
 <!--
 
     Licensed to the Apache Software Foundation (ASF) under one
@@ -39,21 +36,3 @@
         </data>
     </configuration>
 </project>
-=======
--->
-<project xmlns="http://www.netbeans.org/ns/project/1">
-    <type>org.netbeans.modules.java.j2seproject</type>
-    <configuration>
-        <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
-            <name>GUIFormExamples</name>
-            <minimum-ant-version>1.6.5</minimum-ant-version>
-            <source-roots>
-                <root id="src.dir"/>
-            </source-roots>
-            <test-roots>
-                <root id="test.src.dir"/>
-            </test-roots>
-        </data>
-    </configuration>
-</project>
->>>>>>> f166b83cb113f9fee87da2f56c50c520d36c8522
