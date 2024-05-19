@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Entity;
 
 
@@ -31,3 +32,38 @@ public class DoiMatKhauEntity
         this.matkhaumoi = matkhaumoi;
     }
 }
+=======
+package Entity;
+
+
+public class DoiMatKhauEntity 
+{
+    private String taikhoan;
+    private String matkhau;
+    private String matkhaumoi;
+
+    public String getTaikhoan() {
+        return taikhoan;
+    }
+
+    public void setTaikhoan(String taikhoan) {
+        this.taikhoan = taikhoan;
+    }
+
+    public String getMatkhau() {
+        return matkhau;
+    }
+
+    public void setMatkhau(String matkhau) {
+        this.matkhau = matkhau;
+    }
+
+    public String getMatkhaumoi() {
+        return matkhaumoi;
+    }
+
+    public void setMatkhaumoi(String matkhaumoi) {
+        this.matkhaumoi = matkhaumoi;
+    }
+}
+>>>>>>> f166b83cb113f9fee87da2f56c50c520d36c8522

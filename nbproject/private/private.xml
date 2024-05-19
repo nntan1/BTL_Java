@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
@@ -13,3 +14,20 @@
         </group>
     </open-files>
 </project-private>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java%20NetBeans/GUIFormExamples/src/Entity/BangGiaPhongTroEntity.java</file>
+            <file>file:/D:/Java%20NetBeans/GUIFormExamples/src/Entity/ThongKeEntity.java</file>
+            <file>file:/D:/Java%20NetBeans/GUIFormExamples/src/Entity/BangGiaDichVuEntity.java</file>
+            <file>file:/D:/Java%20NetBeans/GUIFormExamples/src/Entity/DoiMatKhauEntity.java</file>
+            <file>file:/D:/Java%20NetBeans/GUIFormExamples/src/Entity/HoaDonDichVuEntity.java</file>
+            <file>file:/D:/Java%20NetBeans/GUIFormExamples/src/Entity/DangKyPhongEntity.java</file>
+            <file>file:/D:/Java%20NetBeans/GUIFormExamples/src/Entity/DangNhapEntity.java</file>
+        </group>
+    </open-files>
+</project-private>
+>>>>>>> f166b83cb113f9fee87da2f56c50c520d36c8522
